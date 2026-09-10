@@ -1,4 +1,5 @@
 Hosting relevant files required for Sarawak's electoral redistricting purposes
+The folder was renamed to Sarawak 2026 Redelineation
 All the datasets were produced by TindakMalaysia Network Services PLT
 *NOTICE OF UPDATE (20/8/2025)*
 - Corrected the total electors for the various administrative Districts (Daerahs) and the Senarai_Daerah_Sarawak_Bilangan_Pengundi_2022 file was updated
@@ -16,6 +17,11 @@ All the datasets were produced by TindakMalaysia Network Services PLT
 *NOTICE OF UPDATE (3/4/2026)
 - Replaced Kuching, Samarahan and Sibu Daerah Mengundi Map files
 - Daerah Mengundis for each Division on the basis of Local Authority Areas (PBT) coverage for each Division
+*NOTICE OF UPDATE (10/9/2026)
+- Folder name was changed to Sarawak_2026_Example
+- All 2022 relevant contents moved to new subfolder called Archived
+- New zipped filed called SARAWAK_DM_2026_FOR_ERA.zip has been uploaded
+- New file containing the distribution of voters by districts has been uploaded
 
 LICENSE
 All the Daerah Mengundi map files are using licence Attribution-NonCommercial-ShareAlike 4.0 International
